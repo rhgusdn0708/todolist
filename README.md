@@ -1,3 +1,5 @@
 ### React + vite
 #### Step1
-*TodoList App을 클래스 컴포넌트 형태로 작성한 1단계계
+*TodoList App을 클래스 컴포넌트 형태로 작성한 1단계
+*RTX(Redux Tool Kit) 적용
+*Axiox 적용하여 Http 통신
